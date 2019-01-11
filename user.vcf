@@ -2,12 +2,11 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Grafiche;FM;;;
-EMAIL;type=INTERNET;type=WORK;type=pref:info@grafichefm.it
 TEL;type=WORK;type=VOICE:0425 805511
 TEL;type=WORK;type=FAX:0425 808308
-TEL;type=PHONE;type=VOICE:347 0756014
 item1.ADR;type=WORK;type=pref:;;Via De i Goti, 273\n45032 Bergantino (RO)
 item1.X-ABADR:sg
+EMAIL;type=INTERNET;type=WORK;type=pref:info@grafichefm.it
 item2.URL;type=pref:grafichefm.it
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
